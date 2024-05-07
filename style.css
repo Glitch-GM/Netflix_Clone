@@ -216,7 +216,7 @@ section.first > div {
   color: white;
 }
 
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 1081) {
   .footer {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -257,7 +257,7 @@ footer .question {
   padding: 34px 0;
 }
 
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 1081px) {
   nav {
     max-width: 90vw;
   }
