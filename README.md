@@ -1,8 +1,6 @@
 # Netflix_Clone
 
 - Cloning netflix with Responsive <br>
----
-***
 `Completed`
 
 ```js
