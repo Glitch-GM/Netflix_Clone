@@ -1,9 +1,9 @@
 # Netflix_Clone
 
-- Cloning netflix with Responsive <br>
+- Cloning netflix with Responsive
 `Completed`
 
 ```js
 console.log('Hello');
 ```
-[X] hii
+[x] hii
